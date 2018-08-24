@@ -1,0 +1,23 @@
+1. System configuration:
+	1. CPU - Intel(R) Core(TM) i5-6200U CPU @ 2.30GHz
+
+	2. Clock Rate - Base speed:	2.40 GHz	
+
+	3. RAM - 8GB
+
+	4. Cache Size
+		L1 cache:	128 KB
+		L2 cache:	512 KB
+		L3 cache:	3.0 MB
+	
+2. Construction Time
+	-	Tomato : 0.245764588 seconds
+	-	Human : 0.02288767 seconds
+	- 	Yeast : 1.64 seconds
+	
+3. Justification
+	
+	
+4. Memory - 223714976 bytes => 223 MB
+
+5.
